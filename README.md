@@ -3,6 +3,12 @@
 
 <br/>
 
+ <div style="display: inline_block"><br>
+  <img align="center" width="450" src="https://user-images.githubusercontent.com/100080203/173671903-f0444921-392a-49a6-b451-163ebfbcc418.png" />
+</div>
+
+<br/>
+
 ## ⚙️ Funcionalidades 
 #### Atualmente o app dispoe de 60 frases distintas que são geradas aleatóriamente com um clique no botão.
 
