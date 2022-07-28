@@ -1,5 +1,5 @@
 # 🥠 App-biscoito-da-sorte 
-#### Uma aplicação desenvolvida durante meu curso de react native. Este aplicativo é bem intuitivo e pode ser uado para diversos fins, sua interface é simples e fácil de ser compreendida.
+#### Uma aplicação desenvolvida durante meu curso de react native. Este aplicativo é bem intuitivo e pode ser uSado para diversos fins, sua interface é simples e fácil de ser compreendida.
 
 <br/>
 
@@ -10,14 +10,14 @@
 <br/>
 
 ## ⚙️ Funcionalidades 
-#### Atualmente o app dispoe de 60 frases distintas que são geradas aleatóriamente com um clique no botão.
+#### Atualmente o app dispõe de 60 frases distintas que são geradas aleatóriamente com um clique no botão.
 
 
 <br/>
 
 ## 📄  intruções para modificação 
 #### As imagens do biscoito estão na pasta /src e podem ser modificadas.
-#### As frases estão presentes no array do arquivo App.js (linha 8) e também podem ser modificadas de acordo com sua preferência.
+#### As frases estão presentes na (linha 8) do arquivo App.js e também podem ser modificadas de acordo com sua preferência.
 
 <br/>
 
